@@ -1,10 +1,10 @@
 module.exports = {
   blogPostDir: "sample-posts", // The name of directory that contains your posts.
-  siteTitle: "Gatsby Material Starter", // Site title.
-  siteTitleAlt: "GatsbyJS Material Starter", // Alternative site title for SEO.
+  siteTitle: "Gatsby Test", // Site title.
+  siteTitleAlt: "Jimmy's Gatsby Test", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
   siteUrl: "https://vagr9k.github.io", // Domain of your website without pathPrefix.
-  pathPrefix: "/gatsby-material-starter", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
+  pathPrefix: "/static", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   siteDescription: "A GatsbyJS stater with Material design in mind.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
@@ -21,17 +21,27 @@ module.exports = {
   userLinks: [
     {
       label: "GitHub",
-      url: "https://github.com/Vagr9K/gatsby-material-starter",
+      url: "https://github.com",
       iconClassName: "fa fa-github"
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/Vagr9K",
+      url: "https://twitter.com/",
       iconClassName: "fa fa-twitter"
     },
     {
+      label: "Facebook",
+      url: "https://twitter.com/",
+      iconClassName: "fa fa-facebook"
+    },
+    {
+      label: "Instrgram",
+      url: "https://instagram.com",
+      iconClassName: "fa fa-instagram"
+    },
+    {
       label: "Email",
-      url: "mailto:vagr9k@gmail.com",
+      url: "mailto:james.walker@screwfix.com",
       iconClassName: "fa fa-envelope"
     }
   ],

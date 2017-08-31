@@ -1,6 +1,6 @@
 ---
-title: "Introducing Gatsby Material Starter"
-cover: "/logos/logo-1024.png"
+title: "Introducing Gatsby Material Starter for Kingfisher"
+cover: "logos/4191aA.jpg"
 category: "gatsby"
 tags:
 
